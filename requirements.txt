@@ -1,0 +1,2 @@
+1. pip install meaningcloud
+2. pip install requests
